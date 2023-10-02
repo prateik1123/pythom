@@ -13,3 +13,25 @@ All articles can be found on [Pythom.nl](https://www.pythom.nl) as well.
 * 6: Upload your local Spark script to an AWS EMR cluster using a simple Python script
 * 7: Helping our new Data Scientists start in Python: A guide to learning by doing
 * 8: Using AWS Lambda and Slack to have fun while saving on EMR costs
+oach to spend your money more efficiently
+* 3: Slashception with regexp_extract in Hive
+* 4: A recommendation system for blogs: Set # This program adds two numbers
+
+num1 = 1.5
+num2 = 6.3
+
+# Add two numbers
+sum = num1 + num2
+
+# Display the sum
+print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+# This program adds two numbers
+
+num1 = 1.5
+num2 = 6.3
+
+# Add two numbers
+sum = num1 + num2
+
+# Display the sum
+print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
